@@ -1,6 +1,6 @@
 # OctoAcme Project Management Docs
 
-Welcome to the OctoAcme project management documentation set. These documents give new contributors and stakeholders a single place to understand how work is proposed, planned, delivered, communicated, released, and improved. Use this README as the top-level onboarding and navigation page for the processes, roles, and working agreements used across OctoAcme projects.
+Welcome to the OctoAcme project management documentation set. These documents centralize institutional knowledge so new contributors and stakeholders have a single place to understand how work is proposed, planned, delivered, communicated, released, and improved. Use this README as the top-level onboarding and navigation page for the processes, roles, and working agreements that standardize workflows, reduce single-person dependency risk, and support consistent, repeatable project execution.
 
 ## Process Lifecycle
 
@@ -25,7 +25,7 @@ Roles are shared across a cross-functional team with clear accountability:
 
 ## Communication and Quality Practices
 
-Communication and risk management are treated as ongoing practices. Teams use daily or twice-weekly standups, weekly delivery and PM/PdM syncs, milestone demos, and monthly stakeholder updates to keep work visible. When blockers increase in impact, escalation moves from team triage to the PM, Product Lead, and sponsor as needed.
+Communication and risk management are treated as ongoing practices. Teams use daily or twice-weekly standups, weekly delivery and PM/PdM syncs, milestone demos, and monthly stakeholder updates to keep work visible. A project README or release document is maintained as the single source of truth for status, decisions, and blockers. When blockers increase in impact, escalation moves from team triage to the PM, Product Lead, and sponsor as needed.
 
 Quality is expected throughout the lifecycle through unit and integration testing where appropriate, CI checks for tests and linting, security scans, manual QA when needed, pre-release and post-deploy smoke tests, release notes, rollback planning, and retrospectives that turn lessons learned into concrete improvements.
 
